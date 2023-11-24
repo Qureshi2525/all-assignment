@@ -1,0 +1,11 @@
+body{
+  background-color: beige;
+}
+.tab{
+  margin-left: 40px;
+  border: 5px solid gray;
+  background-color: beige;
+  border-radius: 10px;
+
+  /* align="Center" border="5px" style="background-color: white; border-radius: 10px;" */
+}
